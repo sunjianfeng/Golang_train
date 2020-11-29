@@ -8,6 +8,7 @@ NewXXX 函数返回接口时就是简单工厂模式，也就是说Golang的一�
 
 
 # 网摘文章阅读：
+原链接地址：https://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/simple_factory.html
 
 .. _simple_factory:
 
